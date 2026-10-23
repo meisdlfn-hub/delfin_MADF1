@@ -1,12 +1,12 @@
 # MADF1 - Flutter Navigation, Forms, and User Input 
 
 ## Student Information 
-Full Name: 
-Section: 
+Full Name: Delfin, Cherrie Mae S.
+Section: BSIT-3C
 Course: Mobile Application Development 
 
 ## Repository 
-Name: last_name_MADF1 
+Name: delfin_MADF1 
 
 ## Application 
 Student Registration and Profile Management Application 
